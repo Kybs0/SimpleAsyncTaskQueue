@@ -6,7 +6,7 @@ using System.Security.Permissions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TransYeekit.Utils
+namespace WpfApp5
 {
     /// <summary>
     /// 可等待的任务
